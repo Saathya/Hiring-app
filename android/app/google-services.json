@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "28496386354",
+    "project_id": "hiringapp-b9f5d",
+    "storage_bucket": "hiringapp-b9f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28496386354:android:8376e74f4e1ee105405f2b",
+        "android_client_info": {
+          "package_name": "com.example.labour_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28496386354-g989kv01dci89qkj65o93fk5tldofeao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labour_app",
+            "certificate_hash": "a9fe699449486fa6e4e685e598f295b3e2104881"
+          }
+        },
+        {
+          "client_id": "28496386354-4gsdgvu7dh910v06vuff5jt5mgmimr38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7sodwcaJzuKSmL0vcPp3AgIntG8JhjJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28496386354-4gsdgvu7dh910v06vuff5jt5mgmimr38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
